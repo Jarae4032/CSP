@@ -1,4 +1,4 @@
 # CSP
 Computer Science Principles
-Jarae Girleath
+Jarae Gilreath
 period 2
